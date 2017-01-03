@@ -72,9 +72,10 @@ Las utilizaremos para poder instalar físicamente la estación.
 ## Consideraciones generales.
 Durante el proceso nos encontramos con los siguientes problemas.
 * SMTP Gmail.
-Cuando cargamos la dirección a donde tenía que alertar no poniamos bien el link del servidor y nos olvidamos de poner el puerto. La forma correcta es smtp.google.com:587
+ Cuando cargamos la dirección a donde tenía que alertar no poniamos bien el link del servidor y nos olvidamos de poner el puerto. La forma correcta es smtp.google.com:587
 * Pilas.
-Las estaciones vienen con pilas de mala calidad. Si está dentro de sus posibilidad compre pilas de primera calidad.
+ Las estaciones vienen con pilas de mala calidad. Si está dentro de sus posibilidad compre pilas de primera calidad.
+
 ## Agradecimientos.
 * Tom Keffer. Creador de Weewx, sin su aporte esto hubiera sido imposible.
 * Hackthlon. A los organizadores, sin este evento nada de esto hubiera sido posible.

@@ -1,17 +1,4 @@
-# Manual_WS1080
-Este proyecto de creación del manual al español de la estacion metereologica WS1080 y WS1081. La misma la produce la firma FineOffset en china. Se vende con distintos nombre genericos como DAZA, Ambient Weather, etc. Es un clonico de la metereología.
-
-## Objetivos.
-Fuera de traducir el manual existente, tenemos como objetivo llevar el manual a otro nivel mejorando los siguientes aspectos:
-
-  1. Conocimientos generales y contexto de la herramienta
-  2. Instalación de la herramienta
-  3. Mantenimiento de la herramienta
-
-## Observaciones.
-Si desea participar y no sabe como, no dude en consultar personalmente a mi dirección de correo electrónico juaneduardoriva@gmail.com.
-
-# Manual_WS1080
+# Manual WS1080 y WS1081
 Este proyecto de creación del manual al español de la estacion metereologica WS1080 y WS1081. La misma la produce la firma FineOffset en china. Se vende con distintos nombre genericos como DAZA, Ambient Weather, etc. Es un clonico de la metereología.
 
 ## Objetivos.
@@ -42,10 +29,7 @@ s
 as
 Agradecimiento.
 
-
-
-
-Tecnología.
+## Tecnología.
 El presente proyecto se basa en las siguientes tecnologías:
 Centrales meteorológicas económicas y disponibles en Argentina.
 El proyecto uso las clónicas que fabrica la firma Fine Offset que en el país se venden bajo las marcas DAZA y otras.
@@ -68,31 +52,32 @@ Computadora.
 En el caso puntual se utilizó una dell 6000 con pantalla rota. Pero puede ser una portátil, de escritorio y una raspberry pi. Si es un computador se debe de poder instalar ubuntu, en el caso de los rasberry se instala una imagen específica.
 Herramientas básicas de mano.
 Las utilizaremos para poder instalar físicamente la estación.
-Proceso.
-Instalacion Estacion Metereologica.
-Configuración Estación Meteorológica.
-Configuración CPU e instalación Weewx.
-Laptops y Ordenadores.
-Instalacion Linux.
-Instalación Weewx.
-Rasberry Pi.
-Instalación imagen Raspberry Pi Weewx.
-Creación cuentas servicios meteorológicos.
-WeatherUnderGround.
-WindGuru.
-Configuración Weewx.
-weewx.conf
-En esa configuración pondremos los datos generales.
-alarm.py script
-Consideraciones generales.
+## Proceso.
+1. Instalacion Estacion Metereologica.
+2. Configuración Estación Meteorológica.
+3. Configuración CPU e instalación Weewx.
+4. Laptops y Ordenadores.
+5. Instalacion Linux.
+6. Instalación Weewx.
+7. Rasberry Pi.
+8. Instalación imagen Raspberry Pi Weewx.
+9. Creación cuentas servicios meteorológicos.
+10. WeatherUnderGround.
+11. WindGuru.
+12. Configuración Weewx.
+13. weewx.conf
+  1. En esa configuración pondremos los datos generales.
+  2. alarm.py script
+
+## Consideraciones generales.
 Durante el proceso nos encontramos con los siguientes problemas.
-SMTP Gmail.
+* SMTP Gmail.
 Cuando cargamos la dirección a donde tenía que alertar no poniamos bien el link del servidor y nos olvidamos de poner el puerto. La forma correcta es smtp.google.com:587
-Pilas.
+* Pilas.
 Las estaciones vienen con pilas de mala calidad. Si está dentro de sus posibilidad compre pilas de primera calidad.
-Agradecimientos.
-Tom Keffer. Creador de Weewx, sin su aporte esto hubiera sido imposible.
-Hackthlon. A los organizadores, sin este evento nada de esto hubiera sido posible.
-Franco Bellomo. Sin su generosidad en apoyar el proyecto de cero y sus aportes al código no hubiera sido posible el proyecto.
-Lucas Bellomo. Sin su generosidad en apoyar el proyecto de cero y sus aportes al código no hubiera sido posible el proyecto.
-Ing. Luis Sabbatini. Luis nos aportó los sets del manual de buenas prácticas un sábado por la tarde.
+## Agradecimientos.
+* Tom Keffer. Creador de Weewx, sin su aporte esto hubiera sido imposible.
+* Hackthlon. A los organizadores, sin este evento nada de esto hubiera sido posible.
+* Franco Bellomo. Sin su generosidad en apoyar el proyecto de cero y sus aportes al código no hubiera sido posible el proyecto.
+* Lucas Bellomo. Sin su generosidad en apoyar el proyecto de cero y sus aportes al código no hubiera sido posible el proyecto.
+* Ing. Luis Sabbatini. Luis nos aportó los sets del manual de buenas prácticas un sábado por la tarde.

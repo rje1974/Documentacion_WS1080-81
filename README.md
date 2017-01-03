@@ -8,11 +8,6 @@ Fuera de traducir el manual existente, tenemos como objetivo llevar el manual a 
   2. Instalación de la herramienta
   3. Mantenimiento de la herramienta
 
-## Metodología de trabajo.
-Como personalmente estoy acostrumbrado a trabajar en edición compartida de documentos mediante el google docs, he subido el mismo a estga plataforma.
-
-https://docs.google.com/document/d/10dyKw9gyVm20jAlCIjj0kqMKp9bDSnGx9qXtcVEwr_E/edit?usp=sharing
-
 ## Observaciones.
 Si desea participar y no sabe como, no dude en consultar personalmente a mi dirección de correo electrónico juaneduardoriva@gmail.com.
 
@@ -26,21 +21,16 @@ Fuera de traducir el manual existente, tenemos como objetivo llevar el manual a 
   2. Instalación de la herramienta
   3. Mantenimiento de la herramienta
 
-## Metodología de trabajo.
-Como personalmente estoy acostrumbrado a trabajar en edición compartida de documentos mediante el google docs, he subido el mismo a estga plataforma.
-
-https://docs.google.com/document/d/10dyKw9gyVm20jAlCIjj0kqMKp9bDSnGx9qXtcVEwr_E/edit?usp=sharing
-
 ## Observaciones.
 Si desea participar y no sabe como, no dude en consultar personalmente a mi dirección de correo electrónico juaneduardoriva@gmail.com.
 
 Proyecto documentación RAMPBA
 
 
-Introducción.
+## Introducción.
 El presente es el proyecto de documentación de la RAMPBA. Entienda que el mismo está en desarrollo, pues las líneas de trabajo se están actualizando constantemente; no así el objetivo principal. El objetivo principal de este proyecto es crear o re acondicionar herramientas para que mediante los datos que aportan las estaciones meteorológicas particulares se puedan generar sistemas de alerta. A continuación Usted encontrará un índice de todos los temas que se fueron dando en el proceso del proyecto y en el proyecto mismo.
-
-Indice.
+
+## Indice.
 
 Tecnología.
 Estaciones Metereologicas.
